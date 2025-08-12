@@ -30,3 +30,5 @@ CRYPTO_KEY = секретный ключ
 python main.py
 
 Результатом работы скрипта будет вывод в консоль общего количества пропуском и количества пропусков которые сей час активированы.
+
+<img width="2107" height="247" alt="image" src="https://github.com/user-attachments/assets/a8772ce3-e55f-4ef0-bbcc-b392c0a2128f" />
